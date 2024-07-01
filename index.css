@@ -270,6 +270,9 @@ body {
     margin-top: 5px;
     margin-bottom: 10px;
 }
+.movie-container{
+    cursor: pointer;
+}
 
 
 @media screen and (max-width: 1024px) {
